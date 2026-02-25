@@ -50,7 +50,6 @@ export type EventType =
   | 'dev-server:output'
   | 'dev-server:url-detected'
   | 'dev-server:stopped'
-  | 'dev-server:url-detected'
   | 'test-runner:started'
   | 'test-runner:progress'
   | 'test-runner:output'
